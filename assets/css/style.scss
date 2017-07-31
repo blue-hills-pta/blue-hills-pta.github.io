@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+// Change header background from default black to blue
+#header_wrap {
+  background: #0000ff;
+}
