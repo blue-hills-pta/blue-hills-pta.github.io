@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Jekyll template
+_site/
+.sass-cache/
+.jekyll-metadata
+
+### Jetbrains
+.idea/
+
+### Mac
+.DS_Store
