@@ -9,8 +9,11 @@
 }
 
 #logo_wrap {
-  height: 150px;
   width: auto;
   float: left;
+  padding: 0 0px 0 0px;
   position: relative;
+  max-width: 100%;
+  display: table;
+  height: 150px;
 }
