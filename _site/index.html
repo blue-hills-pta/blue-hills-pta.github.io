@@ -4,63 +4,86 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <meta name="description" content="Blue Hills Elementary School Parent & Teacher Association : News and Information for the Blue Hills Community">
+    <meta name="viewport" content="width=device-width,maximum-scale=2,initial-scale=1">
+    <meta name="description" content="Blue Hills Elementary School Parent & Teacher Association : News for the Blue Hills Community">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=5528fc7d72a2eb64c44b07444ea46759effb1082">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=0ebcfd6e1c15d583c21d2a74aeb3d009b29484c5">
 
     <title>Blue Hills Elementary School Parent & Teacher Association</title>
 </head>
 
 <body>
 
-<!-- HEADER -->
-<div id="header_wrap" class="outer">
-    <img id="bobcat" src="/assets/images/bobcat.jpg">
-    <header class="inner">
-        <h1 id="project_title">Blue Hills Elementary School Parent & Teacher Association</h1>
-        <h2 id="project_tagline">News and Information for the Blue Hills Community</h2>
+<div id="layout">
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <img id="bobcat" src="/assets/images/bobcat.jpg">
+        <header class="inner">
+            <h1 id="project_title">Blue Hills Elementary School Parent & Teacher Association</h1>
+            <h2 id="project_tagline">News for the Blue Hills Community</h2>
 
-        
-    </header>
-</div>
+            
+        </header>
+    </div>
 
-<!-- SIDEBAR -->
-<div id="sidebar" class="w3-sidebar w3-bar-block">
-    <a id="sidelink" href="https://www.cusdk8.org/Page/10" class="w3-bar-item w3-button">Calendar</a>
-    <a id="sidelink" href="#" class="w3-bar-item w3-button">FAQ</a>
-    <a id="sidelink" href="#" class="w3-bar-item w3-button">Contact Us</a>
-    <a id="sidelink" href="https://www.cusdk8.org/bluehills" class="w3-bar-item w3-button">School Homepage</a>
-</div>
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
 
-<!-- MAIN CONTENT -->
-<div id="main_content_wrap" class="outer">
-    <section id="main_content" class="inner">
-        <h3 id="welcome">Welcome!</h3>
+    <div id="menu">
+        <div class="pure-menu">
+            <a class="pure-menu-heading" href="/">Home</a>
+
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="https://www.cusdk8.org/Page/10" class="pure-menu-link">Calendar</a></li>
+                <li class="pure-menu-item"><a href="/who" class="pure-menu-link">Who We Are</a></li>
+                <li class="pure-menu-item"><a href="/mission" class="pure-menu-link">Mission</a></li>
+                <li class="pure-menu-item"><a href="/committees" class="pure-menu-link">Committees</a></li>
+                <li class="pure-menu-item"><a href="/awards" class="pure-menu-link">Awards</a></li>
+                <li class="pure-menu-item"><a href="/faq" class="pure-menu-link">FAQ</a></li>
+                <li class="pure-menu-item"><a href="https://www.facebook.com/BlueHillsEducationalFund/" class="pure-menu-link">Foundation</a></li>
+                <li class="pure-menu-item"><a href="https://www.cusdk8.org/bluehills" class="pure-menu-link">School Home</a></li>
+                <li class="pure-menu-item"><a href="mailto:BlueHillsPTAWeb@gmail.com" class="pure-menu-link">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main">
+        <section id="content">
+            <h3 id="welcome">Welcome!</h3>
 
 <p>Blue Hills Elementary is located in Saratoga, California.</p>
 
 <h3 id="announcements">Announcements</h3>
 
-<p>Important announcements go here.</p>
+<p>First Day of School is Monday, August 14, 2017</p>
 
 <h3 id="upcoming-events">Upcoming Events</h3>
 
 <ul>
-  <li>Event 1</li>
-  <li>Event 2</li>
+  <li>
+    <p><strong>August 14</strong> First Day Coffee, 8:30 AM - 9:30 AM in the GLC</p>
+  </li>
+  <li>
+    <p><strong>August 17</strong> Curriculum Night</p>
+  </li>
 </ul>
 
-    </section>
-</div>
+        </section>
+    </div>
 
-<!-- FOOTER  -->
-<div id="footer_wrap" class="outer">
-    <footer class="inner">
-        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
-    </footer>
+    <!-- FOOTER -->
+    <div id="footer_wrap" class="outer">
+        <footer class="inner">
+            <!-- Twitter Follow Button for New Principal's Twitter Account -->
+            <a href="https://twitter.com/bhillsbobcats" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @bhillsbobcats</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </footer>
+    </div>
 </div>
-
 
 
 <!-- copied from https://purecss.io/js/ui.js for sidebar navigation -->
