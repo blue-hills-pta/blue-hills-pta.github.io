@@ -7,8 +7,10 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2,initial-scale=1">
     <meta name="description" content="Blue Hills Elementary School Parent & Teacher Association : News for the Blue Hills Community">
 
+    <!-- Pure CSS stylesheet -->
     <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-nn4HPE8lTHyVtfCBi5yW9d20FjT8BJwUXyWZT9InLYax14RDjBj46LmSztkmNP9w" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=0ebcfd6e1c15d583c21d2a74aeb3d009b29484c5">
+    <!-- Jekyll CSS -->
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=86c433a59857c125427b61767d18be0285eb31bd">
 
     <title>Blue Hills Elementary School Parent & Teacher Association</title>
 </head>
@@ -27,12 +29,13 @@
         </header>
     </div>
 
-    <!-- Menu toggle -->
+    <!-- SIDEBAR MENU TOGGLE -->
     <a href="#menu" id="menuLink" class="menu-link">
         <!-- Hamburger icon -->
         <span></span>
     </a>
 
+    <!-- SIDEBAR MENU -->
     <div id="menu">
         <div class="pure-menu">
             <a class="pure-menu-heading" href="/">Home</a>
@@ -44,7 +47,6 @@
                 <li class="pure-menu-item"><a href="/committees" class="pure-menu-link">Committees</a></li>
                 <li class="pure-menu-item"><a href="/awards" class="pure-menu-link">Awards</a></li>
                 <li class="pure-menu-item"><a href="/faq" class="pure-menu-link">FAQ</a></li>
-                <li class="pure-menu-item"><a href="https://www.facebook.com/BlueHillsEducationalFund/" class="pure-menu-link">Foundation</a></li>
                 <li class="pure-menu-item"><a href="https://www.cusdk8.org/bluehills" class="pure-menu-link">School Home</a></li>
                 <li class="pure-menu-item"><a href="mailto:BlueHillsPTAWeb@gmail.com" class="pure-menu-link">Contact Us</a></li>
             </ul>
@@ -91,10 +93,16 @@ All Association meetings are from 7:00 pm - 8:30 pm.</p>
     <div id="footer_wrap" class="outer">
         <footer class="inner">
             <!-- Twitter Follow Button for New Principal's Twitter Account -->
-            <a href="https://twitter.com/bhillsbobcats" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @bhillsbobcats</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <div id="social">
+                <a href="https://twitter.com/bhillsbobcats" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @bhillsbobcats</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+            <!-- Facebook page for the Blue Hills Educational Foundation -->
+            <div id="social">
+                <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FBlueHillsEducationalFund%2F&tabs&width=340&height=70&small_header=true&adapt_container_width=true&hide_cover=true&show_facepile=false&appId" width="340" height="70" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+            </div>
         </footer>
     </div>
-</div>
+</div> <!-- /layout -->
 
 
 <!-- copied from https://purecss.io/js/ui.js for sidebar navigation -->
