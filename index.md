@@ -4,7 +4,7 @@ Blue Hills Elementary is located in Saratoga, California.
 
 ### Announcements
 
-Important announcements go here.
+First Day of School is Monday, August 14, 2017
 
 ### Upcoming Events
 
