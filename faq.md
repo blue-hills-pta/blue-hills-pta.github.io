@@ -13,7 +13,7 @@ Executive board meetings are from 11:00 am - 1:00 pm
 All Association meetings are from 7:00 pm - 8:30 pm.
 
 ### Who can join the PTA?
-Parents, teachers and community members can join the PTA.  If you are not a member and would like to join, you can download a PTA Membership Form by clicking on the "Forms" link located in the sidebar of this page or you can pick up a PTA Membership Form in the front office.
+Parents, teachers and community members can join the PTA.  
  
 ### What does the PTA do?
 The PTA sponsors enrichment programs and assemblies along with fund raising events to fund these programs and assemblies. 
