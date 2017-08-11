@@ -4,7 +4,7 @@
 Christy Tum
 [Bluehillsptapresident@gmail.com](mailto:BlueHillsPTAExecVP@gmail.com)
 
-### Vice President
+### Executive Vice President
 Joann Liao Martin
 [BlueHillsPTAExecVP@gmail.com](mailto:BlueHillsPTAExecVP@gmail.com)
 
@@ -17,7 +17,7 @@ Vanitha Srinivasan
 [BlueHillsPTAVP2@gmail.com](mailto:BlueHillsPTAVP2@gmail.com)
 
 ### Secretary	 
-Shefali Lolayekar	
+Anuradha Sreenivasan
 [BlueHillsPTASecretary@gmail.com](mailto:BlueHillsPTASecretary@gmail.com)
 
 ### Treasurer	 
@@ -29,11 +29,9 @@ Aparna Sathaye
 [BlueHillsPTAAuditor@gmail.com](mailto:BlueHillsPTAAuditor@gmail.com)
 
 ### Historian 
-Smriti Menon	
+Haydee Wong
 [BlueHillsPTAHistorian@gmail.com](mailto:BlueHillsPTAHistorian@gmail.com)
 
 ### Parliamentarian	 
-Vidya Balan	
-[BlueHillsPTAParliamentarian@gmail.com](mailt:BlueHillsPTAParliamentarian@gmail.com)
 
-### Teacher Representative
+[BlueHillsPTAParliamentarian@gmail.com](mailt:BlueHillsPTAParliamentarian@gmail.com)
