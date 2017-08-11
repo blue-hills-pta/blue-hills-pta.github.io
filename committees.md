@@ -1,4 +1,4 @@
-## 2016-2017 Committees
+## 2017-2018 Committees
 
 ### Abilities Awareness
 
