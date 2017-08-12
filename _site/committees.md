@@ -1,96 +1,84 @@
-## 2016-2017 Committees
+## 2017-2018 Committees
 
 ### Abilities Awareness
 
 [bh_abilitiesawareness@yahoo.com](mailto:bh_abilitiesawareness@yahoo.com)
 
-Jemelee Melendres 
+Jenny Vondrehle
 
-### Art Docents
-
-[bhartdocent@gmail.com](mailto:bhartdocent@gmail.com)
-
-Vidya Balan	 
-Shefali Lolayekar	 
-
-### Art & Clay Docent Calendar Coordinator
-
-Juiwen (Vivian) Hu
-
-### Blue Hills Apparel
+### Blue Hills Spirit Wear
 
 [bluehillsbobcatts@gmail.com](mailto:bluehillsbobcatts@gmail.com)
 
-Neetu Pun
-
+[Neetu Pun](mailto:neetu_pun@yahoo.com)
 [Vanitha Srinivasa](mailto:vanitha12@yahoo.com )
-
 Maxine Zuercher	 
  
 ### Bobcat Be's Program
 
-[Smriti Menon](mailto:smritimenon@yahoo.com)
+[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 
 ### Bobcat Walk
 
 [Jamie Chan](mailto:jmc02@sbcglobal.net)
-
-Christy Tum	 
+[Christy Tum](mailto:christytum@gmail.com)
 
 ### Box Tops for Education
 
 [Grace Kosakura](mailto:gkosakura@comcast.net)
 
-### Clay Docents
+### Computer Club
 
-[Jill Nishimoto](mailto:bhclatdocent@yahoo.com)
-Aparna Sathaye	 
+[Mimi Wong](mailto:mimiw19@yahoo.com)
+[Vidya Balan](mailto:vidyavishnu@yahoo.com)	 
 
 ### Community Service
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
-[Shilpa Shanbhag](mailto:shilps.ruby@gmail.com)
-
-### Directory Coordinator
-
-Open
+[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 
 ### Disaster Preparedness
 
-[Leslie Collins](mailto:lesliepriv@yahoo.com)
-Neetu Pun
-Jamie Chan	 
+[Neetu Pun](mailto:neetu_pun@yahoo.com)
+[Jamie Chan](mailto:jmc02@sbcglobal.net)
 
-### Family Science Night
+### Family Science/Math Night
 
-Joann Liao Martin	 
+[Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)	 
 
 ### Fifth Grade Farewell
 
-[Smriti Menon](mailto:smritimenon@yahoo.com)
+[Jamie Chan](mailto:jmc02@sbcglobal.net)
 
 ### Hospitality/Staff Appreciation
 
-[Smriti Menon](mailto:smritimenon@yahoo.com)
- 	 Jill Nishimoto 	 jilln_1@yahoo.com
+[Smita Banerjee](mailto:gossipoint@yahoo.com)
+[Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
+
 
 ### Ice Cream Social
 
 [bhicecreamsocial@gmail.com](mailto:bhicecreamsocial@gmail.com)
 
-Smita Banerjee	 
-Shefali Lolayekar	 
-Anuradha Sreenivasan	
+[Smita Banerjee](mailto:gossipoint@yahoo.com)
+[Shefali Lolayekar](mailto:Shefalisantosh@hotmail.com)	 
+[Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)	
+
+
+### International Day/States Day
+
+[Jamie Chan](mailto:jmc02@sbcglobal.net)
+
 
 ### Kindergarten Welcome
 
-[Smita Banerjee](mailto:bluehillsptavp1@gmail.com)
-Christy Tum	 
-Anuradha Sreenivasan
+[Smita Banerjee](mailto:gossipoint@yahoo.com)
+[Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)	
+[Haydee Wong](mailto:haydeewong@comcast.net)
 
 ### Laminating Coordinators
 
-[Smriti Menon](mailto:smritimenon@yahoo.com)
+[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 [Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
 
 ### Marquee
@@ -98,58 +86,72 @@ Anuradha Sreenivasan
 [Jennifer Wong](mailto:jengeo2001@yahoo.com)
 Prachi Sehgal
 
-### Multicultural Day
+### Parent Education Night
 
-Jamie Chan
+
+### Project Cornerstone
+
+[Haydee Wong](mailto:haydeewong@comcast.net)
+[Smita Banerjee](mailto:gossipoint@yahoo.com)
+[Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
+
 
 ### Publicity Chair
 
-Open
+
 
 ### Reflections
 
 [BlueHillsReflections@yahoo.com](mailto:BlueHillsReflections@yahoo.com)
 
-Neetu Pun 	 
-Hengameh Alikashani	 
-Smriti Menon	 
+[Neetu Pun](mailto:neetu_pun@yahoo.com)
+[Vidya Balan](mailto:vidyavishnu@yahoo.com)	 
+[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
+
 
 ### Running Club
 
-[Meredith Holley](mailto:mholleyg@yahoo.com)
-Leslie Collins 	 
-Neetu Pan
+[Neetu Pun](mailto:neetu_pun@yahoo.com)
+Alice Ng
 
 ### Scholastic Book Fair
 
 [BlueHillsBookFair@gmail.com](mailto:BlueHillsBookFair@gmail.com)
 
-Jill Nishimoto 	 
-Mimi Wong 	 
-Jennifer Wong	 
+[Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
+[Mimi Wong](mimiw19@yahoo.com)	 
+[Jennifer Wong](mailto:jengeo2001@yahoo.com)
+
 
 ### Traffic Safety
 
 [Smita Banerjee](mailto:bluehillsptavp1@gmail.com)
 
+
 ### Volunteer Coordinator
 
 [Smita Banerjee](mailto:bluehillsptavp1@gmail.com)
 
+
 ### Walk to School
 
 [Jennifer Wong](mailto:jengeo2001@yahoo.com)
+[Juiwen Hu](mailto:juiwenhu@gmail.com)
+
 
 ### Website Liaison 
 
 [BlueHillsPTAWeb@gmail.com](mailto:BlueHillsPTAWeb@gmail.com)
-Hengameh Alikashani	 
+
+[Piu Gosh](mailto:rbcbschool@gmail.com)
+[Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
+
 
 ### Yearbook
 
 [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com)
 
-Mimi Wong
-Juiwen (Vivian) Hu	  	
-Joann Martin
-Christy Tum	 
+[Mimi Wong](mimiw19@yahoo.com)	 
+[Juiwen Hu](mailto:juiwenhu@gmail.com) 	
+[Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
+[Shefali Lolayekar](mailto:Shefalisantosh@hotmail.com)	 
