@@ -1,22 +1,22 @@
 ### What is the PTA?
-PTA stands for Parent Teacher Association.  The PTA is a non-profit volunteer organization consisting of members of the Blue Hills community.  The PTA supports teaching and learning by funding programs, materials, supplies, equipment and assemblies.  All Blue Hills families are invited to join the PTA.  PTA meetings are opened to everyone in the Blue Hills community, but only PTA members can vote on PTA issues.
+PTA stands for Parent Teacher Association.  The PTA is a non-profit volunteer organization consisting of members of the Blue Hills community.  The PTA supports teaching and learning by funding programs, materials, supplies, equipment, and assemblies.  All Blue Hills families are invited to join the PTA.  PTA meetings are opened to everyone in the Blue Hills community, but only PTA members can vote on PTA issues.
 
 ### When are the PTA Meetings?
-We encourage all PTA members to attend the Association Meetings which are held on the second Tuesday of the following months:
+We encourage all PTA members to attend the Association Meetings, which are held on the second Tuesday of the following months:
 - September
 - January
 - February
 - April
 
 PTA Executive Board Meetings are for the Executive Board Members and Standing Committee Chairs only.  The Executive Board Meetings are held on the fourth Tuesday of the month, unless otherwise noted.
-Executive board meetings are from 11:00 am - 1:00 pm
+Executive board meetings are from 11:00 am - 1:00 pm.
 All Association meetings are from 7:00 pm - 8:30 pm.
 
 ### Who can join the PTA?
 Parents, teachers and community members can join the PTA.  
  
 ### What does the PTA do?
-The PTA sponsors enrichment programs and assemblies along with fund raising events to fund these programs and assemblies. 
+The PTA sponsors enrichment programs and assemblies, along with fund raising events to fund these programs and assemblies. 
  
 ### What is the PTA's Employer Identification Number (EIN)?
 PTA's EIN is 23-7051359.  Please use this number when applying for Corporate Matching.
