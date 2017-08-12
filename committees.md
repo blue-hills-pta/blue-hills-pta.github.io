@@ -11,7 +11,9 @@ Jenny Vondrehle
 [bluehillsbobcatts@gmail.com](mailto:bluehillsbobcatts@gmail.com)
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
+
 [Vanitha Srinivasa](mailto:vanitha12@yahoo.com )
+
 Maxine Zuercher	 
  
 ### Bobcat Be's Program
@@ -21,6 +23,7 @@ Maxine Zuercher
 ### Bobcat Walk
 
 [Jamie Chan](mailto:jmc02@sbcglobal.net)
+
 [Christy Tum](mailto:christytum@gmail.com)
 
 ### Box Tops for Education
@@ -30,16 +33,19 @@ Maxine Zuercher
 ### Computer Club
 
 [Mimi Wong](mailto:mimiw19@yahoo.com)
+
 [Vidya Balan](mailto:vidyavishnu@yahoo.com)	 
 
 ### Community Service
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
+
 [Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 
 ### Disaster Preparedness
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
+
 [Jamie Chan](mailto:jmc02@sbcglobal.net)
 
 ### Family Science/Math Night
@@ -53,6 +59,7 @@ Maxine Zuercher
 ### Hospitality/Staff Appreciation
 
 [Smita Banerjee](mailto:gossipoint@yahoo.com)
+
 [Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
 
 
@@ -61,7 +68,9 @@ Maxine Zuercher
 [bhicecreamsocial@gmail.com](mailto:bhicecreamsocial@gmail.com)
 
 [Smita Banerjee](mailto:gossipoint@yahoo.com)
+
 [Shefali Lolayekar](mailto:Shefalisantosh@hotmail.com)	 
+
 [Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)	
 
 
@@ -73,17 +82,21 @@ Maxine Zuercher
 ### Kindergarten Welcome
 
 [Smita Banerjee](mailto:gossipoint@yahoo.com)
+
 [Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)	
+
 [Haydee Wong](mailto:haydeewong@comcast.net)
 
 ### Laminating Coordinators
 
 [Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
+
 [Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
 
 ### Marquee
 
 [Jennifer Wong](mailto:jengeo2001@yahoo.com)
+
 Prachi Sehgal
 
 ### Parent Education Night
@@ -92,7 +105,9 @@ Prachi Sehgal
 ### Project Cornerstone
 
 [Haydee Wong](mailto:haydeewong@comcast.net)
+
 [Smita Banerjee](mailto:gossipoint@yahoo.com)
+
 [Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
 
 
@@ -105,13 +120,16 @@ Prachi Sehgal
 [BlueHillsReflections@yahoo.com](mailto:BlueHillsReflections@yahoo.com)
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
+
 [Vidya Balan](mailto:vidyavishnu@yahoo.com)	 
+
 [Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 
 
 ### Running Club
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
+
 Alice Ng
 
 ### Scholastic Book Fair
@@ -119,7 +137,9 @@ Alice Ng
 [BlueHillsBookFair@gmail.com](mailto:BlueHillsBookFair@gmail.com)
 
 [Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
+
 [Mimi Wong](mimiw19@yahoo.com)	 
+
 [Jennifer Wong](mailto:jengeo2001@yahoo.com)
 
 
@@ -136,6 +156,7 @@ Alice Ng
 ### Walk to School
 
 [Jennifer Wong](mailto:jengeo2001@yahoo.com)
+
 [Juiwen Hu](mailto:juiwenhu@gmail.com)
 
 
@@ -144,6 +165,7 @@ Alice Ng
 [BlueHillsPTAWeb@gmail.com](mailto:BlueHillsPTAWeb@gmail.com)
 
 [Piu Gosh](mailto:rbcbschool@gmail.com)
+
 [Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
 
 
@@ -152,6 +174,9 @@ Alice Ng
 [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com)
 
 [Mimi Wong](mimiw19@yahoo.com)	 
+
 [Juiwen Hu](mailto:juiwenhu@gmail.com) 	
+
 [Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
+
 [Shefali Lolayekar](mailto:Shefalisantosh@hotmail.com)	 
