@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### PTA Association Meeting
+
+Don't miss the first PTA Association meeting of the year!  Come and make your voice heard.  Tuesday, September 12, at 6 p.m. in the Guided Learning Center.
+
 ### Class Lists
 
 Class lists will be available on Friday, August 11 after 4 p.m.
