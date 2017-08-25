@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### PTA Association Meeting
+
+Don't miss the first PTA Association meeting of the year!  Come and make your voice heard.  Tuesday, September 12, at 6 p.m. in the Guided Learning Center.
+
 ### Class Lists
 
 Class lists will be available on Friday, August 11 after 4 p.m.
@@ -20,8 +24,12 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **August 14** First Day Coffee, 8:30 AM - 9:30 AM in the GLC
+- **September 4** Labor Day, No School
     
-- **August 17** Curriculum Night
+- **September 8** BHEF Dance
 
-- **August 18** Volunteer Fair, 7:40 AM - 8:30 AM and 2 PM to 3 PM in the GLC
+- **September 12** PTA Association Meeting, 6 p.m. in the GLC
+
+- **September 15** Staff Learning Day, No School
+
+- **September 18-22** Book Fair
