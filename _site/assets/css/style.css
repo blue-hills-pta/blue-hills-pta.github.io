@@ -259,13 +259,13 @@ Small Device Styles
 * */
 #header_wrap { background: #0039D0; }
 
-#bobcat { height: 120px; width: auto; float: left; border: 25px solid #E3AB00; margin: 50px; margin-left: 100px; }
+#bobcat { height: 120px; width: auto; float: left; border: 25px solid #E3AB00; margin: 50px; margin-left: 75px; }
 
 #content { margin: 25px; }
 
-#social { margin: 15px; }
+#footer_wrap { background: transparent; width: 500px; }
 
-.custom-restricted-width { /* To limit the menu width to the content of the menu: */ display: inline-block; /* Or set the width explicitly: */ /* width: 10em; */ }
+.custom-restricted-width { /* To limit the menu width to the content of the menu: */ display: float; /* Or set the width explicitly: */ /* width: 10em; */ }
 
 /*
 *
