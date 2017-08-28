@@ -46,21 +46,21 @@ This is a free and easy program designed by General Mills to help raise funds fo
 
 Fun end-of-the-year social/community event held at Blue Hills in May 2018.   Families gather to enjoy great food, ice cream, games and BHEF's Silent Auction.  All Blue Hills families are invited and encouraged to attend.  Students look forward to this event all year!
 
-Blue Hills is always looking for parent volunteers for planning and running this fun family event.  High school and middle school students looking for community service hours are also welcome.  For more information, please contact Smita Banerjee, Shefali Lolayekar, or Anuradha Sreenivasan at BHicecreamsocial@gmail.com.
+Blue Hills is always looking for parent volunteers for planning and running this fun family event.  High school and middle school students looking for community service hours are also welcome.  For more information, please contact Smita Banerjee, Shefali Lolayekar, or Anuradha Sreenivasan at [BHicecreamsocial@gmail.com](mailto:BHicecreamsocial@gmail.com).
 
  
 ### Book Fair 2017  
 
 Come browse through a wide selection of books and products at the Blue Hills Book Fair. Itʼs a wonderful opportunity to go shopping for a good cause as all proceeds from this event go towards the Blue Hills PTA to benefit our school. From September 18th through the 22nd. From: 7:45 am ~ 8:30 am; 11:30 am ~ 12:30 pm and 1:45 pm ~ 4:00 pm. Venue: GLC, Blue Hills School 
 
-Blue Hills is always looking for parent volunteers to help with this event.  If you are interested in volunteering, please contact Mimi Wong, Jill Nishimoto, or Jennifer Wong at BlueHillsBookFair@gmail.com.
+Blue Hills is always looking for parent volunteers to help with this event.  If you are interested in volunteering, please contact Mimi Wong, Vanitha Srinivasan, or Jennifer Wong at [BlueHillsBookFair@gmail.com](mailto:BlueHillsBookFair@gmail.com).
 
 
 ### Blue Hills Spirit Wear
 
 Sales of Blue Hills Spirit Wear raises funds to benefit the Blue Hills PTA Programs and Activities.  Keep an eye out for order forms in your student's Friday folder!  A limited number of Blue Hills Bobcat T-shirts will be available for purchase at the Bobcat Walk.
 
-For more information, contact Neetu Pun or Vanitha Srinivasan at bluehillsbobcatts@gmail.com.
+For more information, contact Neetu Pun or Vanitha Srinivasan at [bluehillsbobcats@gmail.com](mailto:bluehillsbobcats@gmail.com).
 
 
 ### Community Service
@@ -181,7 +181,7 @@ Students may submit an entry in any of the six areas:
 
 Only original works of art are accepted.  All submissions are due on October 20, 2017 @2:40 pm. **No late entries will be accepted.  Only entries that follow the rules of the competition will be considered for the Council level.
 
-If you would like to learn more about the PTA Reflections Program, check out the PTA Reflections website or contact (mailto:BlueHillsReflections@yahoo.com).
+If you would like to learn more about the PTA Reflections Program, check out the PTA Reflections website or contact [the Reflections committee chairs](mailto:BlueHillsReflections@yahoo.com).
 
 
 ### Running Club
@@ -195,7 +195,7 @@ If you are interested in volunteering for the Running Club, please contact [Neet
 
 The Student Directory Committee collects student/family information that will be included in the PTA's Student Directory and used to notify your family of important PTA events and activities. The Student Directory is a valuable resource to help with meeting new families and to have important school resources at your finger tips.  The Student Directory is for the exclusive use of Blue Hills Elementary families and will be distributed in the Fall, only to PTA members.
 
-For more information, please contact (mailto:Bluehillsptadirectory@gmail.com).
+For more information, please contact [Blue Hills PTA Directory](mailto:Bluehillsptadirectory@gmail.com).
 
 
 ### Traffic Safety
@@ -222,4 +222,4 @@ The Yearbook Committee is comprised of parent volunteers that put together the a
 
 Please check the Blue Hills Yearbook website for information on the Yearbook Cover Contest, Yearbook Photo Submission, Yearbook Orders, and more.
 
-If this is something that interests you, contact Mimi Wong, Juiwen Hu, Joann Liao Martin, or Christy Tum at BlueHillsYearbook@gmail.com.
+If this is something that interests you, contact Mimi Wong, Juiwen Hu, Joann Liao Martin, or Christy Tum at [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com).
