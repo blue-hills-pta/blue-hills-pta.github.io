@@ -11,7 +11,7 @@ We're starting off the new school year with a bang!  September is chock full of 
 
 ### PTA Association Meeting
 
-Don't miss the first PTA Association meeting of the year!  Come and make your voice heard.  Tuesday, September 12, at 6 p.m. in the Guided Learning Center.
+Don't miss the first PTA Association meeting of the year!  Come and make your voice heard.  Wednesday, September 13, at 6 p.m. in the Guided Learning Center.
 
 
 ### Class Lists
@@ -36,7 +36,7 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
     
 - **September 8** BHEF Dance
 
-- **September 12** PTA Association Meeting, 6 p.m. in the GLC
+- **September 13** PTA Association Meeting, 6 p.m. in the GLC
 
 - **September 15** Staff Learning Day, No School
 
