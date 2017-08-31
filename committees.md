@@ -8,7 +8,7 @@ Jenny Vondrehle
 
 ### Blue Hills Spirit Wear
 
-[bluehillsbobcats@gmail.com](mailto:bluehillsbobcatts@gmail.com)
+[bluehillsbobcatts@gmail.com](mailto:bluehillsbobcatts@gmail.com)
 
 [Neetu Pun](mailto:neetu_pun@yahoo.com)
 
