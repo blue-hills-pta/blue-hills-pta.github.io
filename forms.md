@@ -16,7 +16,7 @@
 
 ### Spirit Wear Ordering
 
-[Spirit Wear Order Form](/assets/forms/Spirit%Wear%Colors%and%Sizes%2017-2018.pdf)
+[Spirit Wear Order Form](/assets/forms/Spirit%20Wear%20Order%20Form%20Final.pdf)
 
 
 ### Spirit Wear Sizing Information
