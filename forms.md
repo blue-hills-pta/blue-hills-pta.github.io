@@ -21,6 +21,4 @@
 
 ### Spirit Wear Sizing Information
 
-[Adults](/assets/forms/Shirt%20Sizes%20Adults.pdf)
-
-[Youth](/assets/forms/Shirt%20Sizes%20Youth.pdf)
+[Colors and Sizes](/assets/forms/Spirit%20Wear%20Colors%20and%20Sizes%202017-2018.pdf)
