@@ -16,4 +16,3 @@ The [Championship Year Toolkit](/assets/Champion_Toolkit_17_18.pdf), with Youtub
 
 Please let us know your thoughts!  Is there some part of our implementation of this program that could use improvement?  Any stories or tips/hints that you want to share with other readers?  Leave them [here](https://docs.google.com/forms/d/e/1FAIpQLSe5Q1NZeLJfL1-Pf2mLDcDeEKPsQu_ACm_NL3byZK-BLdhcNA/viewform?usp=sf_link)!
 
-Interested in what other people are saying?  [View their responses](https://docs.google.com/forms/d/1Agsi1W8r0rBen7jsLRoIYvg03_Rx1E69c5dbfKuuyE0/edit#responses).
