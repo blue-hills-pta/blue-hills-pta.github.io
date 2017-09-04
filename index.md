@@ -31,13 +31,15 @@ We need help with Traffic Safety the first two weeks of the school year. Teacher
 Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L-nttFJPSLmKkPOms/edit#gid=0) to sign up now!
 
 ## Upcoming Events
-
-- **September 4** Labor Day, No School
     
 - **September 8** BHEF Dance
+
+- **September 8** Computer Club First Meeting
 
 - **September 13** PTA Association Meeting, 6 p.m. in the GLC
 
 - **September 15** Staff Learning Day, No School
 
 - **September 18-22** Book Fair
+
+- **September 22**  Running Club kickoff
