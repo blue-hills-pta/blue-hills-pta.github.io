@@ -44,10 +44,6 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
     
-- **September 8** BHEF Dance
-
-- **September 8** Computer Club First Meeting
-
 - **September 13** PTA Association Meeting, 6 p.m. in the GLC
 
 - **September 15** Staff Learning Day, No School
@@ -55,3 +51,9 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 - **September 18-22** Book Fair
 
 - **September 22**  Running Club kickoff
+
+- **September 22** BHEF Movie Night
+
+- **September 26-29** Fifth Grade Outdoor School
+
+- **September 29** Project Cornerstone Second Book Training
