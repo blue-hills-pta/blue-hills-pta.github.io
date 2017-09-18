@@ -4,9 +4,9 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
-### Book Fair is Coming!
+### Book Fair is Here!
 
-The Blue Hills Book Fair is right around the corner!  Mark your calendars for September 18-22. Don't miss this chance to get all your holiday shopping done early.
+So excited to shop the 2017 Blue Hills Book Fair!  Classes get to preview the offerings Monday, September 18, and Tuesday, September 19.  The serious shopping starts on Wednesday, September 20.  Don't miss this chance to get all your holiday shopping done early!
 
 The Book Fair is entirely volunteer-run, and we could use your help!  Sign up [here](http://tinyurl.com/y856m5kd) if you're available.
 
@@ -43,10 +43,6 @@ We need help with Traffic Safety the first two weeks of the school year. Teacher
 Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L-nttFJPSLmKkPOms/edit#gid=0) to sign up now!
 
 ## Upcoming Events
-    
-- **September 13** PTA Association Meeting, 6 p.m. in the GLC
-
-- **September 15** Staff Learning Day, No School
 
 - **September 18-22** Book Fair
 
