@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Help Keep Our Kids Safe! 
+
+Blue Hills is in need of people to help out during the lunch hour. Noon Duty Supervisors help students open and eat their lunches and also help supervise the play time. People can sign up to work once per week or everyday for one hour, 11:25-12:25.  There are paid positions as well as volunteer positions. Please contact Audrey Prouse at  prouse_audrey@cusdk8.org if you are interested in more information. Thank you!
+
 ### Book Fair is Here!
 
 So excited to shop the 2017 Blue Hills Book Fair!  Classes get to preview the offerings Monday, September 18, and Tuesday, September 19.  The serious shopping starts on Wednesday, September 20.  Don't miss this chance to get all your holiday shopping done early!
