@@ -5,3 +5,5 @@
 [September 8, 2017](/assets/bulletins/20170908_BHPTA_Newsletter.pdf)
 
 [September 22, 2017](/assets/bulletins/20170922_BHPTA_Newsletter.pdf)
+
+[October 6, 2017](/assets/bulletins/20171006_BHPTA_Newsletter.pdf)
