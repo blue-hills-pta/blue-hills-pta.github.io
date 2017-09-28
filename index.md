@@ -48,12 +48,12 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **September 18-22** Book Fair
+- **October 5-13** Parent Conferences
 
-- **September 22**  Running Club kickoff
+- **October 11** Reflections Submissions Due
 
-- **September 22** BHEF Movie Night
+- **October 16** Staff Learning Day (No School) - Come to the Community Service Park Day!
 
-- **September 26-29** Fifth Grade Outdoor School
+- **October 20** Bobcat Walk
 
-- **September 29** Project Cornerstone Second Book Training
+- **October 31** Halloween Parade and Class Parties
