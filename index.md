@@ -52,12 +52,12 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **October 5-13** Parent Conferences
+- **October 5-13:** Parent Conferences
 
-- **October 11** Reflections Submissions Due
+- **October 11:** Reflections Submissions Due
 
-- **October 16** Staff Learning Day (No School) - Come to the Community Service Park Day!
+- **October 16:** Staff Learning Day (No School) - Come to the Community Service Park Day!
 
-- **October 20** Bobcat Walk
+- **October 20:** Bobcat Walk
 
-- **October 31** Halloween Parade and Class Parties
+- **October 31:** Halloween Parade and Class Parties
