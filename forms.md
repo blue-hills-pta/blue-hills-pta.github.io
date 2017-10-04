@@ -13,7 +13,7 @@
 
 [Bobcat Walk Form](/assets/forms/Bobcat%20Walk%20Pledge%20Form%202017.pdf)
 
-[Bobcat Walk Details] (assets/forms/Bobcat%20Walk%20Details.pdf)
+[Bobcat Walk Details](/assets/forms/Bobcat%20Walk%20Details.pdf)
 
 
 ### Spirit Wear Ordering
