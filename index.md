@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Show Us Your Super Hero Powers!  Walk, Volunteer, Donate!
+
+The Bobcat Walk is almost upon us!  This year's Walk-A-Thon event will be held on Friday, October 20, during school hours.  Please support Blue Hills kids by volunteering and donating!  Donation pledge forms were sent home in student Friday folders, and can also be found [here](http://www.bluehillspta.org/assets/forms/Bobcat%20Walk%20Pledge%20Form%202017.pdf).  You can find more information about the Bobcat Walk [here](http://www.bluehillspta.org/assets/forms/Bobcat%20Walk%20Details.pdf).  The Bobcat Walk is one of the PTA's biggest fundraisers, and we rely on you to help us fund the [enrichment programs](http://www.bluehillspta.org/programs) that help our kids learn and grow!
+
 ### Help Keep Our Kids Safe! 
 
 Blue Hills is in need of people to help out during the lunch hour. Noon Duty Supervisors help students open and eat their lunches and also help supervise the play time. People can sign up to work once per week or everyday for one hour, 11:25-12:25.  There are paid positions as well as volunteer positions. Please contact Audrey Prouse at  prouse_audrey@cusdk8.org if you are interested in more information. Thank you!
