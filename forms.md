@@ -1,5 +1,9 @@
 ## Forms
 
+### PTA Insurance Waiver
+
+[PTA Insurance Waiver](/assets/forms/PTA%20Insurance%20Waiver%202017-2018.pdf)
+
 ### Cash and Reimbursements
 
 [Deposit Slip Form](/assets/forms/BH%20Deposit%20Form.rtf)
