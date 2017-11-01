@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Candy!
+
+Thank you, Blue Hills community, for making the first ever Blue Hills PTA/BHEF Trunk or Treat Event a resounding success!  We had a fantastic turnout, and it was so great to see all the creativity on display (by both kids and trunk hosts!).  Don't forget, if you have more candy now than you know what to do with, the K-Kids will be collecting individually wrapped candy to support Operation Care and Comfort.  Bring that candy to school and donate it to a good cause!
+
 ### Trunk or Treat!
 
 After school on October 31, please join us for the first ever Blue Hills PTA Trunk or Treat event!  [We will be closing off the Blue Hills parking lot](/assets/forms/PickUpMap-TrunkOrTreat.pdf) so that students can visit volunteer "trunks" to receive their Halloween treats!  You can find more information about the event [here](/assets/forms/Trunk%20or%20Treat%20Friday%20Folder.pdf).
@@ -56,4 +60,9 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **October 31:** Halloween Parade and Class Parties; Trunk or Treat
+- **November 2:** Take It Personally workshop
+- **November 10:** Veterans Day (No School)
+- **November 20-24:** Thanksgiving Recess (No School)
+- **December 13:** K-3 Winter Sing
+- **December 18-January 1:** Winter Recess
+
