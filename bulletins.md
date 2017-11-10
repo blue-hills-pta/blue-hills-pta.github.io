@@ -11,3 +11,5 @@
 [October 20, 2017](/assets/bulletins/20171020_BHPTA_Newsletter.pdf)
 
 [November 3, 2017](/assets/bulletins/20171103_BHPTA_Newsletter.pdf)
+
+[November 17, 2017](/assets/bulletins/20171117_BHPTA_Newsletter.pdf)
