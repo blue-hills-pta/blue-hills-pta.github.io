@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Holiday Gift Drive for Senior Citizens
+
+Come join the Blue Hills Community Service team in our mission to make this holiday season memorable for the seniors at our local Our Lady of Fatima Villa!  If you would like to participate in spreading some holiday cheer to an often overlooked group in our community, please see [here](/assets/forms/CommunityService-GiftDrive.pdf) for more details.
+
 ### Candy!
 
 Thank you, Blue Hills community, for making the first ever Blue Hills PTA/BHEF Trunk or Treat Event a resounding success!  We had a fantastic turnout, and it was so great to see all the creativity on display (by both kids and trunk hosts!).  Don't forget, if you have more candy now than you know what to do with, the K-Kids will be collecting individually wrapped candy to support Operation Care and Comfort.  Bring that candy to school and donate it to a good cause!
@@ -60,9 +64,8 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **November 2:** Take It Personally workshop
-- **November 10:** Veterans Day (No School)
 - **November 20-24:** Thanksgiving Recess (No School)
+- **December 1:** Donations due for Our Lady of Fatima Villa holiday gift drive
 - **December 13:** K-3 Winter Sing
 - **December 18-January 1:** Winter Recess
 
