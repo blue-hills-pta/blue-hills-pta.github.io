@@ -64,8 +64,9 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **November 20-24:** Thanksgiving Recess (No School)
-- **December 1:** Donations due for Our Lady of Fatima Villa holiday gift drive
 - **December 13:** K-3 Winter Sing
 - **December 18-January 1:** Winter Recess
+- **January 8:** PTA Association Meeting
+- **January 15:** MLK Day (No School)
+- **January 26:** Staff Learning Day (No School)
 
