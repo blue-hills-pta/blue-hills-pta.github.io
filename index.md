@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Happy Holidays, Blue Hills Family!
+
+Wishing you all the very best for the holiday season and in the new year!
+
 ### Holiday Gift Drive for Senior Citizens
 
 Come join the Blue Hills Community Service team in our mission to make this holiday season memorable for the seniors at our local Our Lady of Fatima Villa!  If you would like to participate in spreading some holiday cheer to an often overlooked group in our community, please see [here](/assets/forms/CommunityService-GiftDrive.pdf) for more details.
