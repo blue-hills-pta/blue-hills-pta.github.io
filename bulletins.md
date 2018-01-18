@@ -16,4 +16,4 @@
 
 [December 15, 2017](/assets/bulletins/20171215_BHPTA_Newsletter.pdf)
 
-[January 25, 2018] (/assets/bulletins/20180125_BHPTA_Newsletter.pdf)
+[January 25, 2018](/assets/bulletins/20180125_BHPTA_Newsletter.pdf)
