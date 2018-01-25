@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Come Learn What Makes Blue Hills So Special!  Bring Your Friends!
+
+Monday, January 29, is the Blue Hills Open House! If you have a neighbor or know someone who lives in our neighborhood but DOES NOT attend Blue Hills, or you know families who are thinking of leaving Blue Hills, please invite them to come to our Open House on Jan. 29th at 8:00am in the Learning Lab! Thank you for your support and assistance!
+
 ### Important Evening Events
 
 Please join us in the Blue Hills GLC for two important events in the upcoming weeks.  Wednesday, January 10, at 6 p.m. is the first Blue Hills Parent Education Night, coordinated by our principal, Mrs. Prouse. Acknowledge Alliance will facilitate a conversation centered on how resiliency and social emotional wellness contribute to the overall success and happiness of students, teachers, and families.  You will walk away with a deeper understanding o SEI (Social Emotional Intelligence) and tips to foster family connectedness.  Childcare will be provided for school-aged children.
@@ -74,7 +78,8 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **January 15:** MLK Day (No School)
-- **January 18:** Dr. Baker talk at Blue Hills GLC
 - **January 26:** Staff Learning Day (No School)
+- **January 29:** Blue Hills Open House
+- **February 13:** PTA Association General Meeting
+- **February 19-23:** Mid-Year Recess
 
