@@ -84,8 +84,6 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **January 26:** Staff Learning Day (No School)
-- **January 29:** Blue Hills Open House
 - **February 13:** PTA Association General Meeting
 - **February 19-23:** Mid-Year Recess
 
