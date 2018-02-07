@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Science Super Powers!
+
+You're not going to want to miss out on Blue Hill's Family Science Night, sponsoroed by the Blue Hills PTA!  Join us in the GLC at 6:30 p.m. on March 1.  As always, our events are volunteer-run - if you can help, please sign up [here](https://tinyurl.com/VolunteerScienceNight2018). Hope to see you there! 
+
 ### Want to really make a difference in your child's school?
 
 Put your creativity and organizational skills to good use at your child’s school!  Consider a PTA board position!  All positions are open: President, Exec VP, VP Comm., VP Membership, Secretary, Treasurer, Auditor, and Historian.
@@ -84,6 +88,6 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **February 13:** PTA Association General Meeting
 - **February 19-23:** Mid-Year Recess
-
+- **March 1:** Family Science Night
+- **March 2:** Project Cornerstone Book Training
