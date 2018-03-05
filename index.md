@@ -94,6 +94,6 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **February 19-23:** Mid-Year Recess
-- **March 1:** Family Science Night
-- **March 2:** Project Cornerstone Book Training
+- **March 8:** Principal's Coffee at 6 p.m. in the GLC
+- **April 16-20:** Spring Break
+- **April 24:** PTA Association Meeting and HSA Night
