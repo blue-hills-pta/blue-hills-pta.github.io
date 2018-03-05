@@ -6,7 +6,7 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ### Save those memories!
 
-Are you the parent of a graduating fifth-grader?  Make their last Blue Hills yearbook special!  Let your child know how proud you are by submitting a dedication to the yearbook.  See [here] (/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf) for more information.
+Are you the parent of a graduating fifth-grader?  Make their last Blue Hills yearbook special!  Let your child know how proud you are by submitting a dedication to the yearbook.  See [here](/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf) for more information.
 
 Not graduating yet?  You can still send a shout-out to your friends, teachers, or staff in the yearbook!  [Here's how](/master/assets/forms/scratch%20(1).pdf).
 
