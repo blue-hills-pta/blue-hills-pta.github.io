@@ -4,6 +4,12 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Save those memories!
+
+Are you the parent of a graduating fifth-grader?  Make their last Blue Hills yearbook special!  Let your child know how proud you are by submitting a dedication to the yearbook.  See [here] (/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf) for more information.
+
+Not graduating yet?  You can still send a shout-out to your friends, teachers, or staff in the yearbook!  [Here's how](/master/assets/forms/scratch%20(1).pdf).
+
 ### Science Super Powers!
 
 You're not going to want to miss out on Blue Hill's Family Science Night, sponsoroed by the Blue Hills PTA!  Join us in the GLC at 6:30 p.m. on March 1.  As always, our events are volunteer-run - if you can help, please sign up [here](https://tinyurl.com/VolunteerScienceNight2018). See [here](/assets/forms/Family%20Science%20Night%20Flyer%20March%201%202018.pdf) for more information.  Hope to see you there! 
