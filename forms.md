@@ -1,5 +1,9 @@
 ## Forms
 
+### Ice Cream Social
+
+[Ticket and Food Order Form](/assets/forms/2018%20ICS%20order%20form.pdf)
+
 ### Yearbook
 
 [Yearbook Blurbs](/assets/forms/scratch%20(1).pdf)
