@@ -2,7 +2,7 @@
 
 ### Ice Cream Social
 
-[Ticket and Food Order Form](/assets/forms/2018%20ICS%20order%20form.pdf)
+[Ticket and Food Order Form](/assets/forms/2018%20ICS%20order%20form%20(1).pdf)
 
 ### Yearbook
 
