@@ -4,6 +4,12 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Join us for a SUPER good time!
+
+The Blue Hills Ice Cream Social is coming up!  Mark your calendars for Friday, May 11.  This is an event you do not want to miss!  Don't forget to [order your food and ice cream now](http://www.bluehillspta.org/assets/forms/2018%20ICS%20order%20form%20(1).pdf), as food needs to be pre-ordered.  The Ice Cream Social is an entirely volunteer-run event.  If you can help, we'd love to have you!  [Please see here](http://www.bluehillspta.org/assets/forms/E-Flyer-for-Volunteers-Families.pdf) for more information, and for the volunteer sign-up link.
+
+See you there!
+
 ### Save those memories!
 
 Are you the parent of a graduating fifth-grader?  Make their last Blue Hills yearbook special!  Let your child know how proud you are by submitting a dedication to the yearbook.  See [here](/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf) for more information.
@@ -94,6 +100,8 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **March 8:** Principal's Coffee at 6 p.m. in the GLC
+- **April 13:** Ice Cream Social food orders due
 - **April 16-20:** Spring Break
 - **April 24:** PTA Association Meeting and HSA Night
+- **April 27:** Blue Hills Earth Day Celebration and succulents planting
+- **May 11:** Ice Cream Social!
