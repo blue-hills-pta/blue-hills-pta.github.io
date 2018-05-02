@@ -27,3 +27,5 @@
 [March 30, 2018](/assets/bulletins/2018_BHPTA_Newsletter.pdf)
 
 [April 13, 2018](/assets/bulletins/20180413_BHPTA_Newsletter.pdf)
+
+[May 4, 2018](/assets/bulletins/BH%20PTA%20Newsletter%2020180511.pdf)
