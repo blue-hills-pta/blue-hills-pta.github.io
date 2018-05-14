@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Computer Club Exhibition
+
+The Blue Hills Computer Club has been working hard all year.  They will be putting on an exhibition of their work on June 5, at 6 p.m., in the GLC.  Come see what they've done!
+
 ### Join us for a SUPER good time!
 
 The Blue Hills Ice Cream Social is coming up!  Mark your calendars for Friday, May 11.  This is an event you do not want to miss!  Don't forget to [order your food and ice cream now](http://www.bluehillspta.org/assets/forms/2018%20ICS%20order%20form%20(1).pdf), as food needs to be pre-ordered.  The Ice Cream Social is an entirely volunteer-run event.  If you can help, we'd love to have you!  [Please see here](http://www.bluehillspta.org/assets/forms/E-Flyer-for-Volunteers-Families.pdf) for more information, and for the [volunteer sign-up link](https://bit.ly/2Gth1zX).
