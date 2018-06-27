@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### HAGS!
+
+Wishing all of our Blue Hills family a fantastic summer!  See you next year!
+
 ### Computer Club Exhibition
 
 The Blue Hills Computer Club has been working hard all year.  They will be putting on an exhibition of their work on June 5, at 6 p.m., in the GLC.  Come see what they've done!
