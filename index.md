@@ -4,6 +4,39 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Calling All Incoming Kinders!
+
+#### Please join the Blue Hills Kindergarten Class of 2018-2019 for the annual Welcome Picnic. Meet the Kindergarten teachers, Blue Hills Principal and Parent Group representatives while your child plays with his/her new classmates!
+
+WHEN: 	Monday, August 13, 2018
+TIME: 	5:30-7:00 PM
+PLACE:	Blue Hills Elementary School Playground
+RSVP:		Please RSVP to Smita Banerjee (bluehillsptavp1@gmail.com ) or Haydee Wong (haydeewong@comcast.net)  by August 1st
+
+What to bring for your family:    
+1. Drinks 
+2. Dinnerware (plates, utensils, napkins) 
+3. Potluck Dish
+
+Potluck Dish:  Please bring a dish to share that serves 10-12 people. If your last name begins with:
+A-L:	Please bring a Main Dish
+M-R:  	Please bring a Salad (Fruit or Vegetable) Dish
+S-Z:	Please bring a Dessert
+**NO NUTS, PLEASE**
+
+#### Summer Play Dates
+
+Prior to the Welcome Picnic, there will be 2 informal play dates scheduled at the Blue Hills playground to help children become familiar with the school.
+
+These informal gatherings are not school-sponsored, and can be attended on a “drop-in” basis with a parent or caregiver. Everyone is welcome to join in the fun.
+
+Hope to see you there! Please note there are no restroom facilities available.
+ 
+Monday, July 30   5:00 – 6:00 PM
+ 
+Monday, August 6	5:00 – 6:00 PM
+
+
 ### HAGS!
 
 Wishing all of our Blue Hills family a fantastic summer!  See you next year!
