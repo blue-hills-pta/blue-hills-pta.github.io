@@ -10,7 +10,7 @@ For more information about Project Cornerstone, please go the the YMCA's [Projec
 
 Please sign out this month's book and materials [here](https://docs.google.com/spreadsheets/d/1iTBa36stBzhWCaf3N3wehMOveAzrF1zOfKzID_I8j1E/edit#gid=893445835).
 
-Or look [here](http://www.projectcornerstone.org/html/abc/yearthree.html) for the 2017-2018 lesson plans.
+Or look [here](http://www.http://projectcornerstone.org/html/abc/yearone.html) for the 2018-19 lesson plans.
 
 The [Championship Year Toolkit](/assets/Champion_Toolkit_17_18.pdf), with Youtube videos of the readings, can be found [here](/assets/Champion_Toolkit_17_18.pdf).
 
