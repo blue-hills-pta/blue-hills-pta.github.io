@@ -12,7 +12,7 @@ Please sign out this month's book and materials [here](https://docs.google.com/s
 
 Or look [here](http://www.http://projectcornerstone.org/html/abc/yearone.html) for the 2018-19 lesson plans.
 
-The [Championship Year Toolkit](/assets/Champion_Toolkit_17_18.pdf), with Youtube videos of the readings, can be found [here](/assets/Champion_Toolkit_17_18.pdf).
+The [Asset Year Toolkit](/assets/ABC_Asset_Toolkit%20.pdf), with Youtube videos of the readings, can be found [here](/assets/ABC_Asset_Toolkit%20.pdf).
 
 #### We love feedback!
 
