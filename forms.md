@@ -1,20 +1,8 @@
 ## Forms
 
-### Ice Cream Social
-
-[Ticket and Food Order Form](/assets/forms/2018%20ICS%20order%20form%20(1).pdf)
-
-[Volunteer Information](/assets/forms/E-Flyer-for-Volunteers-Families.pdf)
-
-### Yearbook
-
-[Yearbook Blurbs](/assets/forms/scratch%20(1).pdf)
-
-[Fifth-Grade Dediction](/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf)
-
 ### PTA Insurance Waiver
 
-[PTA Insurance Waiver](/assets/forms/PTA%20Insurance%20Waiver%202017-2018.pdf)
+[PTA Insurance Waiver](/assets/forms/PTA Insurance Waiver 2018-2019.doc)
 
 ### Cash and Reimbursements
 
@@ -24,19 +12,12 @@
 
 [2018-19 Cash Verification Form](/assets/forms/2018-19%20Cash%20Verification%20From.pdf)
 
+### Fall Festival
 
-### Bobcat Walk
+Coming soon...
 
-[Bobcat Walk Form](/assets/forms/Bobcat%20Walk%20Pledge%20Form%202017.pdf)
+### Yearbook
 
-[Bobcat Walk Details](/assets/forms/Bobcat%20Walk%20Details.pdf)
+[Yearbook Blurbs](/assets/forms/scratch%20(1).pdf)
 
-
-### Spirit Wear Ordering
-
-[Spirit Wear Order Form](/assets/forms/Spirit%20Wear%20Order%20Form%202017-2018.pdf)
-
-
-### Spirit Wear Sizing Information
-
-[Colors and Sizes](/assets/forms/Spirit%20Wear%20Colors%20and%20Sizes%202017-2018.pdf)
+[Fifth-Grade Dediction](/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf)
