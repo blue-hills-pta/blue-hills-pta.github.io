@@ -2,7 +2,7 @@
 
 ### PTA Insurance Waiver
 
-[PTA Insurance Waiver](/assets/forms/PTA Insurance Waiver 2018-2019.doc)
+[PTA Insurance Waiver](/assets/forms/PTA%20Insurance%20Waiver%202018-2019.doc)
 
 ### Cash and Reimbursements
 
