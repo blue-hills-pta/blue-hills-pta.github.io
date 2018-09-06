@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Does your child have a hero?
+
+The PTA Reflections program is seeking entries!  Reflections is a national arts program with the purpose of giving students confidence in their abilities to explore ideas and learn through the arts.  Students can submit original works in the areas of dance choreography, film production, literature, music composition, photography, and visual arts.  
+
 ### Welcome back to school, Bobcats!
 
 Great to see everyone back for an exciting new year!
