@@ -1,4 +1,4 @@
-## 2017-2018 Committees
+## 2018-2019 Committees
 
 ### Abilities Awareness
 
@@ -28,7 +28,7 @@
 
 ### Disaster Preparedness
 
-[Jamie Chan](mailto:jmc02@sbcglobal.net)
+[Christy Tum](mailto:christytum@gmail.com)
 
 ### Fall Festival
 
@@ -129,8 +129,6 @@
 
 
 ### Website Liaison 
-
-[BlueHillsPTAWeb@gmail.com](mailto:BlueHillsPTAWeb@gmail.com)
 
 [Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
 
