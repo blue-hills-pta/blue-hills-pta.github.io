@@ -14,7 +14,7 @@ In addition, we also have Bobcat Buddies Games Days on the last Tuesday of the m
 
 Please check the school bulletin or the Abilities Awareness website for latest updates.
 
-For more information, contact [Jenny Vondrehle](mailto:bh_abilitiesawareness@yahoo.com).
+For more information, please email [bluehillsptapresident@gmail.com](mailto:bluehillsptapresident@gmail.com).
 
 
 ### Bobcat Be's Liaison
@@ -109,22 +109,13 @@ Hospitality/Staff Appreciation coordinates and provides baked goods and home-mad
 - August - Teacher's Back to School Luncheon
 - August - Principal's Coffee
 - December - Cookies for Staff Cookie Bags
-- February - Desserts for Family Science Night
-- April - Staff Appreciation Week
+- March - Desserts for Family Science/Math Night
 - April - HSA Reception
-- May - New Kindergartner's Parent Orientation
+- May - Staff Appreciation Week
+- New Kindergartner's Parent Orientation
 - Monthly - Staff Birthday Treats
 
 For more information, contact [Smita Banerjee](mailto:gossipoint@yahoo.com) or [Vanitha Srinivasan](mailto:bluehillsptavp1@gmail.com).
-
-
-### International/States Day
-
-International Day is a day where students come dressed in international outfits and learn about the different cultures from other countries. Parents, family members and friends are invited to share information about their culture by preparing booths for students to visit.
-
-This year, the theme will be States Day, where students will learn about the states that make up the country in which we live.  
-
-For more information, contact [Jamie Chan](mailto:JMC02@yahoo.com).
 
 
 ### Kindergarten Welcome Picnic
