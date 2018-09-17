@@ -4,6 +4,10 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Don't Miss the Blue Hills Fall Festival!
+
+Fall Festival and the 3K Fun Run is coming up!  This will be Blue Hills' biggest event of the year!  Don't miss out.  Registration forms for the Fun Run can be found [here](  ).  For more information about the Fall Festival and Fun Run, see [here]( ).  And remember, all participants in PTA-sponsored activities need to have an executed waiver on file.  A copy of the waiver can be found [here](/assets/forms/PTA%20Insurance%20Waiver%202018-2019%20(3).doc).
+
 ### Does your child have a hero?
 
 The PTA Reflections program is seeking entries!  Reflections is a national arts program with the purpose of giving students confidence in their abilities to explore ideas and learn through the arts.  Students can submit original works in the areas of dance choreography, film production, literature, music composition, photography, and visual arts. For more information, or to learn more about how to enter the contest, [please come to the PTA Reflections workshop](/assets/2018%20PTA%20REFLECTIONS%20workshop%20PDF.pdf) on Tuesday, Sept. 11, from 8:00 a.m. to 1:35 p.m. in the Blue Hills Learning Lab.  
