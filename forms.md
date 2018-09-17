@@ -6,7 +6,7 @@
 
 [Fall Festival FAQs](/assets/forms/3K%20Fact%20Sheet%20Revised.docx)
 
-[PTA Insurance Waiver]
+[PTA Insurance Waiver](/assets/forms/PTA%20Insurance%20Waiver%202018-2019%20(3).doc)
 
 ### PTA Insurance Waiver
 
