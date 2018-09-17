@@ -2,7 +2,11 @@
 
 ### Fall Festival
 
-[Fall Festival Registration]
+[Fall Festival Registration](/assets/forms/3K%20Fun%20Run%20Registration.docx)
+
+[Fall Festival FAQs]
+
+[PTA Insurance Waiver]
 
 ### PTA Insurance Waiver
 
