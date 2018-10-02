@@ -2,6 +2,8 @@
 
 [September 17, 2018](/assets/bulletins/2018_09_17_PTA_Newsletter.pdf)
 
+[October 2, 2018](/assets/bulletins/2018_10_02_PTA_Newsletter.pdf)
+
 
 ### 2017-2018 Bulletins
 
