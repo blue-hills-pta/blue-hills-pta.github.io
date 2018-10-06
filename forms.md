@@ -4,7 +4,7 @@
 
 [Fall Festival Registration](/assets/forms/3K%20Fun%20Run%20Registration.docx)
 
-[Fall Festival FAQs]
+[Fall Festival FAQs](/assets/forms/3K%20Fact%20Sheet%20Revised.pdf)
 
 [PTA Insurance Waiver](/assets/forms/PTA%20Insurance%20Waiver%202018-2019%20(3).doc)
 
