@@ -4,6 +4,22 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Thank you, Blue Hills Fall Festival Sponsors!
+
+Thank you to all of you who came out and enjoyed the Fall Festival with us!  And a special thank you to our community sponsors.  Thank you for supporting our kids!
+
+#### Bill Gorman, Coldwell Banker
+
+#### 4EverFit Personal Training Studio
+
+#### Sequoia Applied Technologies
+
+#### Melody Academy of music
+
+#### Pediatric Dentistry of Cupertino
+
+#### Park Saratoga Dental
+
 ### Don't Miss the Blue Hills Fall Festival!
 
 Fall Festival and the 3K Fun Run is coming up!  This will be Blue Hills' biggest event of the year!  Don't miss out.  Registration forms for the Fun Run can be found [here](/assets/forms/3K%20Fun%20Run%20Registration.docx).  For more information about the Fall Festival and Fun Run, see [here](/assets/forms/3K%20Fact%20Sheet%20Revised.docx).  And remember, all participants in PTA-sponsored activities need to have an executed waiver on file.  A copy of the waiver can be found [here](/assets/forms/PTA%20Insurance%20Waiver%202018-2019%20(3).doc).
