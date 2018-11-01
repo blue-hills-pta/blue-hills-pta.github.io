@@ -26,6 +26,4 @@
 
 ### Yearbook
 
-[Yearbook Blurbs](/assets/forms/scratch%20(1).pdf)
-
-[Fifth-Grade Dediction](/assets/forms/5th%20Grade%20Yearbook%20Ads%202017%20(1)%20%20%20%20Dedication%20Blurb.pdf)
+[Yearbook Cover Contest](/assets/forms/Yearbook%20Cover%20Contest%202018-2019.pdf)
