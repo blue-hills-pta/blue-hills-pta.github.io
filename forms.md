@@ -2,11 +2,11 @@
 
 ### 2019 Readathon
 
-[Readathon FAQs](/assets/forms/Final 2019 Readathon Q&A.pdf)
+[Readathon FAQs](/assets/forms/Final%202019%20Readathon%20Q&A.pdf)
 
-[Reading Log](/assets/forms/2019 Readathon Log.pdf)
+[Reading Log](/assets/forms/2019%20Readathon%20Log.pdf)
 
-[Readathon Sponsor Pledge Form](/assets/forms/Blue Hills readathon pledge form.pdf)
+[Readathon Sponsor Pledge Form](/assets/forms/Blue%20Hills%20readathon%20pledge%20form.pdf)
 
 ### PTA Insurance Waiver
 
