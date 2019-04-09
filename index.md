@@ -10,13 +10,13 @@ Dear Blue Hills Parent,
 
 I love being a part of the Blue Hills community because it is just that - a community.  If you've moved here from another school, like my family did, you know that Blue Hills is special. I am so grateful for the parents who spend countless hours - and literal blood, sweat, and tears - to put together enrichment programs for our kids, activities to make school fun, and opportunities to learn in new ways.  Our kids have access to so many things that other schools don't have, thanks to our volunteers, many of whom are also juggling full-time jobs.  We have volunteers who get up before dawn on Friday mornings to teach our kids to code.  We have volunteers that put incredible effort into photographing and constructing the yearbooks that our kids treasure for years.  We have volunteers that labor for months putting together the Fall Festival, Science/Math Night, and other events that bring our community together.  I could go on and on.  
 
-But sadly, some of the PTA's programs may be cut for lack of willing volunteers for next year.  
+#### But sadly, some of the PTA's programs may be cut for lack of willing volunteers for next year.  
 
 We have many committees that need chairs, or else we cannot continue those programs.  Some of these include Abilities Awareness, Reflections, Computer Club, Running Club, and Book Fair.  If you are able to lead, you will have people willing to help!
 
 Descriptions of the PTA's programs can be found on bluehillspta.org.  And, of course, please get in touch with any questions you might have.
 
-If you can help, we need you to keep these programs going for our kids!
+#### If you can help, we need you to keep these programs going for our kids!
 
 Blue Hills would not be the school that it is without parents like you.  Thanks for your attention and consideration!
 
