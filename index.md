@@ -197,8 +197,7 @@ Click [HERE](https://docs.google.com/spreadsheets/d/1MyEacaLFZnrpGiIq18mf9evZ03L
 
 ## Upcoming Events
 
-- **April 13:** Ice Cream Social food orders due
-- **April 16-20:** Spring Break
+- **April 11:** Open House
+- **April 15-19:** Spring Break
+- **May 1:** PTA Association Meeting and HSA Night
 - **April 24:** PTA Association Meeting and HSA Night
-- **April 27:** Blue Hills Earth Day Celebration and succulents planting
-- **May 11:** Ice Cream Social!
