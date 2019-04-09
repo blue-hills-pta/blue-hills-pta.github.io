@@ -28,30 +28,14 @@ The Bobcat Be's: Positive and Negative Reinforcement - Students receive positive
 For more information, contact [Aparna Sathaye](mailto:aparna.sathaye@gmail.com).
 
 
-### Bobcat Walk
-
-The Bobcat Walk is an annual Walk-a-thon which raises funds for Blue Hills PTA programs such as Assemblies, Computer/Coding Club, Project Cornerstone, and much more. The Bobcat Walk is the major PTA fundraiser for Blue Hills and our goal is to raise $25,000 this year.
-
-The Bobcat Walk will be held on Friday, October 13, 2017. The students will walk the perimeter of the school's grass field area. Students bring in sponsorship per lap or a lump-sum pledge. Parents are welcome to come out and watch their kids walk.
-
-Blue Hills is always looking for parent volunteers to help with this event.  For more information, please contact [Jamie Chan](mailto:jmc02@sbcglobal.net) or [Christy Tum](mailto:christytum@gmail.com). 
-  
-
 ### Box Tops for Education
 
 This is a free and easy program designed by General Mills to help raise funds for schools.  You can earn money for Blue Hills by clipping Box Tops coupons from hundreds of participating products and turning them in to the front office for collection.  Blue Hills has earned $275 for the past school year from Box Tops.  For more information about the program visit the Box Tops for Education website.
 
-
-### Ice Cream Social
-
-Fun end-of-the-year social/community event held at Blue Hills in May 2018.   Families gather to enjoy great food, ice cream, games and BHEF's Silent Auction.  All Blue Hills families are invited and encouraged to attend.  Students look forward to this event all year!
-
-Blue Hills is always looking for parent volunteers for planning and running this fun family event.  High school and middle school students looking for community service hours are also welcome.  For more information, please contact Smita Banerjee, Shefali Lolayekar, or Anuradha Sreenivasan at [BHicecreamsocial@gmail.com](mailto:BHicecreamsocial@gmail.com).
-
  
-### Book Fair 2017  
+### Book Fair 
 
-Come browse through a wide selection of books and products at the Blue Hills Book Fair. Itʼs a wonderful opportunity to go shopping for a good cause as all proceeds from this event go towards the Blue Hills PTA to benefit our school. From September 18th through the 22nd. From: 7:45 am ~ 8:30 am; 11:30 am ~ 12:30 pm and 1:45 pm ~ 4:00 pm. Venue: GLC, Blue Hills School 
+Come browse through a wide selection of books and products at the Blue Hills Book Fair. Itʼs a wonderful opportunity to go shopping for a good cause as all proceeds from this event go towards the Blue Hills PTA to benefit our school. 
 
 Blue Hills is always looking for parent volunteers to help with this event.  If you are interested in volunteering, please contact Mimi Wong, Vanitha Srinivasan, or Jennifer Wong at [BlueHillsBookFair@gmail.com](mailto:BlueHillsBookFair@gmail.com).
 
@@ -79,6 +63,13 @@ Each year Blue Hills participates in an Earthquake Drill.
 For more information, contact [Jamie Chan](mailto:jmc02@sbcglobal.net).
 
 
+### Fall Festival and Fun Run
+
+The Fall Festival and Fun Run is an annual community event and fundraiser which raises funds for Blue Hills PTA programs such as Assemblies, Computer/Coding Club, Project Cornerstone, and much more. The Fall Festival/Fun Run is the major PTA fundraiser for Blue Hills and our goal is to raise $25,000 this year.
+
+Blue Hills is always looking for parent volunteers to help with this event.  For more information, please contact [Anu Sreenivasan](mailto:anuradha.karthik@gmail.com). 
+
+
 ### Family Math/Science Night
 
 Every year the PTA sponsors an evening event focused on making math or science fun for kids.  The assembly theme alternates every other year. This year Family Math Night will be presented.  All Blue Hills families are welcome to attend.
@@ -99,7 +90,7 @@ For more information, please contact [Jamie Chan](mailto:jmc02@sbcglobal.net).
 
 These awards provide recognition for those volunteers who have dedicated their time, talent, and energy towards the enrichment of our community's children and youth.  The Very Special Person (VSP), Honorary Service (HSA), Continuing Service (CSA), Golden Oak Service (GOSA), and Blue Hills Very Important Person (VIP) Awards are given to individuals who are deserving of special recognition. Recipients may be parents, teachers, support/instructional staff and other adults instrumental in the Blue Hills Community and working behind the scenes.  
 
-If you would like to learn more the Honorary Service Awards Program,  visit the PTA HSA website or contact [Vanitha Srinivasan](mailto:bluehillsptavp1@gmail.com).
+If you would like to learn more the Honorary Service Awards Program,  visit the PTA HSA website or contact [Haydee Wong](mailto:bluehillsptavp1@gmail.com).
 
 
 ### Hospitality/Staff Appreciation
