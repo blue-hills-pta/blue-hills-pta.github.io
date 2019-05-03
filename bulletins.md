@@ -24,6 +24,8 @@
 
 [April 9, 2019](/assets/bulletins/2019_04_09_PTA_Newsletter.pdf)
 
+[May 3, 2019](/assets/bulletins/2019_05_03_PTA_Newsletter.pdf)
+
 ### 2017-2018 Bulletins
 
 [August 24, 2017](/assets/bulletins/20170825_BHPTA_Newsletter.pdf)
