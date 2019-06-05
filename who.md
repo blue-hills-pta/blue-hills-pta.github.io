@@ -1,22 +1,22 @@
-## 2018-2019 Executive Board
+## 2019-2020 Executive Board
 ### President
 Joann Liao Martin
 [Bluehillsptapresident@gmail.com](mailto:BlueHillsPTApresident@gmail.com)
 
 ### Executive Vice President
-Christy Tum
+Reena Shah
 [BlueHillsPTAExecVP@gmail.com](mailto:BlueHillsPTAExecVP@gmail.com)
 
 ### 1st VP (Membership)	 
-Juiwen Hu	
+Haydee Wong	
 [BlueHillsPTAVP1@gmail.com](mailto:BlueHillsPTAVP1@gmail.com)
 
 ### 2nd VP (Communication)	 
-Smita Banerjee	
+Anu Sreenivasan	
 [BlueHillsPTAVP2@gmail.com](mailto:BlueHillsPTAVP2@gmail.com)
 
 ### Secretary	 
-Anuradha Sreenivasan
+Jennifer Sahara
 [BlueHillsPTASecretary@gmail.com](mailto:BlueHillsPTASecretary@gmail.com)
 
 ### Treasurer	 
@@ -28,9 +28,9 @@ Shefali	Lolayekar
 [BlueHillsPTAAuditor@gmail.com](mailto:BlueHillsPTAAuditor@gmail.com)
 
 ### Historian 
-Haydee Wong
+Alice Ng
 [BlueHillsPTAHistorian@gmail.com](mailto:BlueHillsPTAHistorian@gmail.com)
 
 ### Parliamentarian	 
-Vanitha Srinivasan
+TBD
 [BlueHillsPTAParliamentarian@gmail.com](mailt:BlueHillsPTAParliamentarian@gmail.com)
