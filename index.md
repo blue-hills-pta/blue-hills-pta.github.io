@@ -2,6 +2,8 @@
 
 Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is a group of parents and teachers dedicated to the enrichment of the students and the community.
 
+<button style='min-width: 175px;border-radius: 4px;border: solid 3px #01499D;padding:5px 10px; font-weight: bold; background: #4A90E2'><a href="https://jointotem.com/ca/saratoga/blue-hills-pta" style='font-size: 120%;color:white'>Join Our PTA</a></button>
+
 ## Announcements
 
 ### The Countdown Begins!
