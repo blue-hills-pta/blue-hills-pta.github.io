@@ -6,6 +6,12 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### Upcoming Events
+
+We're back in the swing of things, and there's a lot to look forward to!  Fall Festival and the 3K Fun Run will take place on October 11 this year, from 5:30 to 7:30.  There will be a pumpkin patch, carnival games, food trucks, and more!  All proceeds will go to support Blue Hills.  Don't miss out!
+
+We'll be voting on this year's budget and programs at the first PTA Association meeting of the year on September 10 at 6 p.m.  Come join us and learn more about how PTA supports Blue Hills kids!
+
 ### The Countdown Begins!
 
 We're counting down until the first day of school, Bobcats!  See you at 8 a.m. sharp on Thursday, August 15.  Class lists go up at 4 p.m. on Wednesday the 14.  Please look for PTA representatives who will be there to greet you.  Come and learn about your PTA and how we can all work together to make Blue Hills the best place for our kids!
