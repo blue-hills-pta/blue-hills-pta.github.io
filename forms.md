@@ -2,9 +2,9 @@
 
 ### Fall Festival
 
-[Fall Festival Registration Form]
+[Fall Festival Registration Form](/assets/forms/2019%203K%20Fact%20Sheet.pdf)
 
-[Fall Festival FAQs]
+[Fall Festival FAQs](/assets/forms/3K%Fun%Run%Registration.pdf)
 
 ### PTA Insurance Waiver
 
