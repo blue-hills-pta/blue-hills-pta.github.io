@@ -2,7 +2,7 @@
 
 ### Fall Festival
 
-[Fall Festival Registration Form](/assets/forms/3K Fun Run Registration.pdf)
+[Fall Festival Registration Form](/assets/forms/3K%20Fun%20Run%20Registration.pdf)
 
 [Fall Festival FAQs](/assets/forms/2019%203K%20Fact%20Sheet.pdf)
 
