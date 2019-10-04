@@ -145,25 +145,26 @@ If this is something that interests you, contact the [PTA Parliamentarian](mailt
 
 ### Reflections
 
-The Reflections Program provides opportunities for students to express themselves and to receive positive recognition for their artistic efforts.  The 2017-2018 Reflections theme is "Within Reach".
+Reflections
+The Reflections Program provides opportunities for students to express themselves and to receive positive recognition for their artistic efforts. The 2019-2020 Reflections theme is “LOOK WITHIN”.
 
 Students may submit an entry in any of the six areas:
 
-1. Literature
+Literature
 
-2. Musical Composition
+Musical Composition
 
-3. Photography
+Photography
 
-4. Visual Arts
+Visual Arts
 
-5. Dance Choreography
+Dance Choreography
 
-6. Film Production
+Film Production
 
-Only original works of art are accepted.  All submissions are due on October 20, 2017 @2:40 pm. **No late entries will be accepted.  Only entries that follow the rules of the competition will be considered for the Council level.
+Only original works of art are accepted. All submissions are due on October 9th, 2019 @2:40 pm. **No late entries will be accepted. Only entries that follow the rules of the competition will be considered for the Council level.
 
-If you would like to learn more about the PTA Reflections Program, check out the PTA Reflections website or contact [the Reflections committee chairs](mailto:BlueHillsReflections@yahoo.com).
+If you would like to learn more about the PTA Reflections Program, check out the PTA Reflections website or contact the Reflections committee chairs.
 
 
 ### Running Club
