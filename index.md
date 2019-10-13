@@ -13,9 +13,16 @@ The Blue Hills Community sends a HUGE thank you to our local partners who have s
 ## Platinum Level Sponsors
 
 ![Bill Gorman](/assets/images/banner challenge_Example.jpg)
+![South Bay Kids Dentistry](/assets/images/South Bay Kids Dentistry Logo (2) phone number.jpg)
+![East West Music](/assets/images/EWMD Logo high quality.jpg)
+![Joyful Melodies](/assets/images/Business Card_Joyful Melodies same font grey font rev3 (1).jpg)
 
 ## Gold Level Sponsors
 
+#### Melody Academy of Music
+#### Hills Dental
+#### Jake's Pizza
+#### Saratoga Federated Church
 
 ### Upcoming Events
 
