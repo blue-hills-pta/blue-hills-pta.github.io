@@ -12,7 +12,7 @@ The Blue Hills Community sends a HUGE thank you to our local partners who have s
 
 ## Platinum Level Sponsors
 
-![Bill Gorman](/assets/images/bobcat.jpg)
+![Bill Gorman](/assets/images/banner challenge_Example.jpg)
 
 ## Gold Level Sponsors
 
