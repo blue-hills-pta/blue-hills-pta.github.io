@@ -1,6 +1,6 @@
 ### 2019-2010 PTA Newsletters
 
-[November 8, 2019](/assets/bulletins/PTA Newsletter 11.08.19.pdf)
+[November 8, 2019](/assets/bulletins/11082019_BHPTA_Newsletter.pdf)
 
 [October 25, 2019](/assets/bulletins/10252019_BHPTA_Newsletter.pdf)
 
