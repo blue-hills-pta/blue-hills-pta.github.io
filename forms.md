@@ -25,8 +25,8 @@
 
 [Readathon FAQs](/assets/forms/Final%202019%20Readathon%20Q&A.pdf)
 
-[Reading Log](/assets/forms/2019%20Readathon%20Log.pdf)
+[Reading Log Week 1](/assets/forms/2019%20Readathon%20Log.pdf)
 
-[Readathon Sponsor Pledge Form](/assets/forms/Blue%20Hills%20readathon%20pledge%20form.pdf)
+[Readathon Sponsor Pledge Form](/assets/forms/Blue%20Hills%20readathon%20pledge%20form%20(1).pdf)
 
 
