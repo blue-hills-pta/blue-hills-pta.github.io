@@ -4,31 +4,27 @@
 
 [bh_abilitiesawareness@yahoo.com](mailto:bh_abilitiesawareness@yahoo.com)
 
-[Anu Biswas](shubhanu@gmail.com)
+Open - Looking for volunteers
  
 ### Bobcat Be's Program
 
-[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
+[Audrey Prouse](mailto:prouse_audrey@cusdk8.org)
 
 ### Box Tops for Education
 
-
+[Haydee Wong]
 
 ### Computer Club
 
-[Joann Liao Martin](mailto:bluehillsptapresident@gmail.com)
+Open - Looking for volunteers
 
 ### Community Service
-
-[Neetu Pun](mailto:neetu_pun@yahoo.com)
-
-[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
 
 [Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)
 
 ### Disaster Preparedness
 
-[Christy Tum](mailto:christytum@gmail.com)
+[Neetu Pun](mailto:neetu_pun@yahoo.com)
 
 ### Fall Festival
 
@@ -42,35 +38,27 @@
 
 ### Fifth Grade Farewell
 
-[Christy Tum](mailto:bluehillsptaexecvp@gmail.com)
+[Jamie Chan]
 
 ### Hospitality/Staff Appreciation
 
-[Smita Banerjee](mailto:gossipoint@yahoo.com)
-
-[Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
-
-[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
+[Jamie Chan]
 
 ### Kindergarten Welcome
 
-[Smita Banerjee](mailto:gossipoint@yahoo.com)
+[Vibha Kaushal]
 
-[Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)	
+[Amy Yuan]
 
-[Haydee Wong](mailto:haydeewong@comcast.net)
+[Jasmine Ahuja]
 
 ### Laminating Coordinators
 
-[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
-
-[Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
+Open - Looking for volunteers
 
 ### Marquee
 
-[Jennifer Wong](mailto:jengeo2001@yahoo.com)
-
-[Prachi Sehgal](mailto:prachis@msn.com)
+Open - Looking for volunteers
 
 ### Parent Education Night
 
@@ -78,59 +66,50 @@
 
 ### Project Cornerstone
 
-[Haydee Wong](mailto:haydeewong@comcast.net)
+[Esther Kim]
 
-[Smita Banerjee](mailto:gossipoint@yahoo.com)
-
-[Joann Liao Martin](mailto:bluehillsptaexecvp@gmaprachiil.com)
+[Aishwarya Venkat]
 
 
 ### Publicity Chair
 
-
+Open - Looking for volunteers
 
 ### Reflections
 
 [BlueHillsReflections@yahoo.com](mailto:BlueHillsReflections@yahoo.com)
 
-[Juiwen Hu](mailto:juiwenhu@gmail.com)
+[Vibha Kaushal]
 
-[Aparna Sathaye](mailto:aparna.sathaye@gmail.com)
-
+[Neetu Pun]
 
 ### Running Club
 
-[Meredith Holley](mailto:mholleyg@yahoo.com)
+[Colleen Ryan]
 
 ### Scholastic Book Fair
 
 [BlueHillsBookFair@gmail.com](mailto:BlueHillsBookFair@gmail.com)
 
-[Vanitha Srinivasan](mailto:vanitha12@yahoo.com)
-
-[Jennifer Wong](mailto:jengeo2001@yahoo.com)
-
+[Jamie Chan]
 
 ### Traffic Safety
 
-[Smita Banerjee](mailto:bluehillsptavp1@gmail.com)
+[Kripa Susarla]
 
 
 ### Volunteer Coordinator
 
-[Smita Banerjee](mailto:bluehillsptavp1@gmail.com)
+[Anu Sreenivasan]
 
 
 ### Walk to School
 
-[Jennifer Wong](mailto:jengeo2001@yahoo.com)
-
-[Juiwen Hu](mailto:juiwenhu@gmail.com)
-
+[Anitha Chakravarti]
 
 ### Website Liaison 
 
-[Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com)
+[Joann Liao Martin](mailto:bluehillsptapresident@gmail.com)
 
 
 ### Yearbook
