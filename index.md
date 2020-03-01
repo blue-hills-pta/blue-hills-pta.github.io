@@ -6,6 +6,12 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### 2020 Blue Hills Readathon is here!
+
+Readathon forms can be downloaded at http://www.bluehillspta.org/forms.  Don't forget to collect your pledges and log your reading minutes for the month of March!  Prizes will be given out for meeting various reading milestones, and the top reading class will win a class party.  Also, this year is the first ever Bobcat Book Exchange.  Bring a gently-used book into the library and exchange it for a ticket.  On March 27, tickets may be exchanged for a new-to-you book.
+
+Let's get reading!
+
 ### Thank you, Fall Festival Sponsors!
 
 The Blue Hills Community sends a HUGE thank you to our local partners who have sponsored this year's Fall Festival!
