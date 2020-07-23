@@ -1,6 +1,6 @@
 ## 2019-2020 Executive Board
 ### President
-Joann Liao Martin
+Felicia Manullang
 [Bluehillsptapresident@gmail.com](mailto:BlueHillsPTApresident@gmail.com)
 
 ### Executive Vice President
@@ -20,11 +20,11 @@ Jennifer Sahara
 [BlueHillsPTASecretary@gmail.com](mailto:BlueHillsPTASecretary@gmail.com)
 
 ### Treasurer	 
-Haiying Wu	
+Amy Yuan	
 [BlueHillsPTATreasurer@gmail.com](mailto:BlueHillsPTATreasurer@gmail.com)
 
 ### Auditor	 
-Shefali	Lolayekar
+Haiying Wu
 [BlueHillsPTAAuditor@gmail.com](mailto:BlueHillsPTAAuditor@gmail.com)
 
 ### Historian 
