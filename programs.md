@@ -14,8 +14,6 @@ In addition, we also have Bobcat Buddies Games Days on the last Tuesday of the m
 
 Please check the school bulletin or the Abilities Awareness website for latest updates.
 
-For more information, please email [bluehillsptapresident@gmail.com](mailto:bluehillsptapresident@gmail.com).
-
 
 ### Bobcat Be's Liaison
 
@@ -24,8 +22,6 @@ The responsibilities of the Bobcat Be's Liaison is to represent the PTA at the B
 Blue Hills' Bobcat Be's Student Management program supports all students through interventions ranging from a school-wide system to a system for developing individualized plans for specific students. The Bobcat Be's program consists of pro-active procedures and practices to prevent problem behavior for all students and to improve school climate.  The Bobcat Be's are three rules that students follow at all times at Blue Hills:  Be Safe, Be Responsible, & Be Respectful.  The Bobcat Be's uses the school-wide rules to identify specific behavioral expectations across all school settings.
 
 The Bobcat Be's: Positive and Negative Reinforcement - Students receive positive reinforcement for following the Bobcat Be's by receiving "Paws for Praise" tickets.  Weekly classroom drawings are done for students that receive "Paws for Praise" tickets and students are recognized at weekly Bobcat Be's assemblies.  "Paws for Praise" tickets are used to buy items at our school store: the Bobcat Den.  When students violate the Bobcat Be's, staff intervenes to inform the student of the problem behavior, teach the appropriate behavior for the particular situation, and administer appropriate disciplinary action.
-
-For more information, contact [Aparna Sathaye](mailto:aparna.sathaye@gmail.com).
 
 
 ### Box Tops for Education
@@ -44,14 +40,10 @@ Blue Hills is always looking for parent volunteers to help with this event.  If 
 
 Sales of Blue Hills Spirit Wear raises funds to benefit the Blue Hills PTA Programs and Activities.  Keep an eye out for order forms in your student's Friday folder!  A limited number of Blue Hills Bobcat T-shirts will be available for purchase at the Bobcat Walk.
 
-For more information, contact Neetu Pun or Vanitha Srinivasan at [bluehillsbobcats@gmail.com](mailto:bluehillsbobcats@gmail.com).
-
 
 ### Community Service
 
 The Community Service Program offers Blue Hills students and their families an opportunity to give back something to their community.  Each year Blue Hills students participate in a Community Service Program.  In the past years, the students have participated in food drives, Pennies for Patients, donations to military families, and more.
-
-For more information Contact [Neetu Pun](mailto:neetu_pun@yahoo.com).
 
 
 ### Disaster Preparedness
@@ -60,14 +52,12 @@ In case of an emergency, Blue Hills will be ready, thanks to the Disaster Prepar
 
 Each year Blue Hills participates in an Earthquake Drill.
 
-For more information, contact [Jamie Chan](mailto:jmc02@sbcglobal.net).
-
 
 ### Fall Festival and Fun Run
 
 The Fall Festival and Fun Run is an annual community event and fundraiser which raises funds for Blue Hills PTA programs such as Assemblies, Computer/Coding Club, Project Cornerstone, and much more. The Fall Festival/Fun Run is the major PTA fundraiser for Blue Hills and our goal is to raise $25,000 this year.
 
-Blue Hills is always looking for parent volunteers to help with this event.  For more information, please contact [Anu Sreenivasan](mailto:anuradha.karthik@gmail.com). 
+Blue Hills is always looking for parent volunteers to help with this event. 
 
 
 ### Family Math/Science Night
@@ -76,21 +66,15 @@ Every year the PTA sponsors an evening event focused on making math or science f
 
 Parent volunteers are needed to assist with the stations that will be provided.  No experience is necessary.
 
-For more information, please contact [Joann Liao Martin](mailto:bluehillsptaexecvp@gmail.com).
-
 
 ### Fifth Grade Farewell
 
 The Fifth Grade Farewell Committee is responsible for the planning of the Fifth Grade Farewell held at Blue Hills at the end of the school year.  All Blue Hills fifth grade families are invited to the potluck along with the Blue Hills staff.
 
-For more information, please contact [Jamie Chan](mailto:jmc02@sbcglobal.net).
-
 
 ### Honorary Service Awards (HSA)
 
 These awards provide recognition for those volunteers who have dedicated their time, talent, and energy towards the enrichment of our community's children and youth.  The Very Special Person (VSP), Honorary Service (HSA), Continuing Service (CSA), Golden Oak Service (GOSA), and Blue Hills Very Important Person (VIP) Awards are given to individuals who are deserving of special recognition. Recipients may be parents, teachers, support/instructional staff and other adults instrumental in the Blue Hills Community and working behind the scenes.  
-
-If you would like to learn more the Honorary Service Awards Program,  visit the PTA HSA website or contact [Haydee Wong](mailto:bluehillsptavp1@gmail.com).
 
 
 ### Hospitality/Staff Appreciation
@@ -106,41 +90,29 @@ Hospitality/Staff Appreciation coordinates and provides baked goods and home-mad
 - New Kindergartner's Parent Orientation
 - Monthly - Staff Birthday Treats
 
-For more information, contact [Smita Banerjee](mailto:gossipoint@yahoo.com) or [Vanitha Srinivasan](mailto:bluehillsptavp1@gmail.com).
-
 
 ### Kindergarten Welcome Picnic
 
 This event provides the opportunity for incoming families to meet other Kindergarten families, the Kindergarten teachers, and the principal, and learn about the Blue Hills Community.
-
-For more information regarding the Kindergarten Welcome Picnic, please contact [Haydee Wong](mailto:haydeewong@comcast.net).
 
 
 ### Laminating
 
 Periodically the Blue Hills Staff needs items to be laminated for their classrooms.  This committee takes these items off-site to the TRC (Teacher’s Resource Center) and laminates them.  On average, the laminating task is performs once a week.
 
-For more information, contact [Vanitha Srinivasan](mailto:vanitha12@yahoo.com).
-
 
 ### Legislative Advocacy
 The Legislative Advocacy provides PTA members with information about PTA positions on current legislation and issues.  PTA is a child advocacy association.  PTA promotes and encourages legislative advocacy for the education and welfare of all children and youth.
-
-This position is OPENED.  If you are interested in this position, please contact the [PTA Parliamentarian](mailto:BlueHillsPTAParliamentarian@gmail.com).
 
 
 ### Marquee Coordinator
 
 The Marquee Coordinator is responsible for updating the Blue Hills Marquee with important school events and activities.  This duty is performed once or twice a month.
 
-For more information, contact [Jennifer Wong](mailto:jengeo2001@yahoo.com).
-
 
 ### Publicity
 
 The PTA hosts a variety of activities and events (i.e.; membership drive, principal's coffee, family science night, staff appreciation week) that need publicity displayed around the school. The Publicity Committee coordinates and creates posters and signage for such activities and events.
-
-If this is something that interests you, contact the [PTA Parliamentarian](mailto:BlueHillsPTAParliamentarian@gmail.com).
 
 
 ### Reflections
@@ -171,14 +143,10 @@ If you would like to learn more about the PTA Reflections Program, check out the
 
 The Running Club brings structured activity to the playground and encourages fitness.  It is run entirely by parent volunteers who make the program a success.  Students are encouraged to participate by walking, jogging or running around the grass area of the playground during their lunch recess.  After each completed lap, the student will have their lap card punched by a Running Club volunteer.   The Running Club meets once a week and is open to all Blue Hills students.
 
-If you are interested in volunteering for the Running Club, please contact [Neetu Pun](mailto:neetu_pun@yahoo.com).
-
 
 ### Student Directory
 
 The Student Directory Committee collects student/family information that will be included in the PTA's Student Directory and used to notify your family of important PTA events and activities. The Student Directory is a valuable resource to help with meeting new families and to have important school resources at your finger tips.  The Student Directory is for the exclusive use of Blue Hills Elementary families and will be distributed in the Fall, only to PTA members.
-
-For more information, please contact [Blue Hills PTA Directory](mailto:Bluehillsptadirectory@gmail.com).
 
 
 ### Traffic Safety
@@ -189,14 +157,10 @@ Every class is responsible to provide parent traffic volunteers during a 2 week 
 
 Blue Hills is in great need of parent traffic volunteers for the first few weeks of the new school year and the last two weeks of the school year. If you can volunteer your time before and/or after school to help make the drop-off and pick-up times safer, you can sign up online.
 
-For more information, please contact [Smita Banerjeee](mailto:bluehillsptavp1@gmail.com).
-
 
 ### Walk to School
 
 Walk to School is a national program that raises awareness of the benefits of walking/riding to school while improving pedestrian and bicycle safety.
-
-For more information, please contact [Jennifer Wong](mailto:jengeo2001@yahoo.com).
 
 
 ### Yearbook
@@ -205,4 +169,3 @@ The Yearbook Committee is comprised of parent volunteers that put together the a
 
 Please check the Blue Hills Yearbook website for information on the Yearbook Cover Contest, Yearbook Photo Submission, Yearbook Orders, and more.
 
-If this is something that interests you, contact Mimi Wong, Juiwen Hu, Joann Liao Martin, or Christy Tum at [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com).
