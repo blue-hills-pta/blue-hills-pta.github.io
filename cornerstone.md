@@ -8,13 +8,4 @@ For more information about Project Cornerstone, please go the the YMCA's [Projec
 
 #### If you are already a Project Cornerstone volunteer, thank you!
 
-Please sign out this month's book and materials [here](https://docs.google.com/spreadsheets/d/1iTBa36stBzhWCaf3N3wehMOveAzrF1zOfKzID_I8j1E/edit#gid=893445835).
-
-Or look [here](http://projectcornerstone.org/html/abc/yearone.html) for the 2018-19 lesson plans.
-
-The [Asset Year Toolkit](/assets/ABC_Asset_Toolkit%20.pdf), with Youtube videos of the readings, can be found [here](/assets/ABC_Asset_Toolkit%20.pdf).
-
-#### We love feedback!
-
-Please let us know your thoughts!  Is there some part of our implementation of this program that could use improvement?  Any stories or tips/hints that you want to share with other readers?  Leave them [here](https://docs.google.com/forms/d/e/1FAIpQLSe5Q1NZeLJfL1-Pf2mLDcDeEKPsQu_ACm_NL3byZK-BLdhcNA/viewform?usp=sf_link)!
-
+Look [here](https://www.ymcasv.org/ymca-project-cornerstone/materials-lessons/abc-materials-lesson-plans/abc-champion-year) for the 2020-21 lesson plans.
