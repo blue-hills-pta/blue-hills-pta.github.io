@@ -1,33 +1,23 @@
 ## 2020-2021 Committees*
  
-### Box Tops for Education
-
-[Haydee Wong]
-
 ### Community Service
 
-[Anuradha Sreenivasan](mailto:anuradha.karthik@gmail.com)
+Email bluehillsptavp1@gmail.com
 
 ### Kindergarten Welcome
 
-[Vibha Kaushal]
-
-[Amy Yuan]
+Email bluehillsptavp2@gmail.com
 
 ### Project Cornerstone
 
-[Esther Kim]
-
-[Aishwarya Venkat]
+Email bluehillsptaprojectcornerstone@gmail.com
 
 ### Reflections
 
-[BlueHillsReflections@yahoo.com](mailto:BlueHillsReflections@yahoo.com)
-
-[Vibha Kaushal]
+Email blueHillsReflections@yahoo.com
 
 ### Yearbook
 
 [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com)
 
-* Certain committees are not currently active during distance learning.
+#### * Certain committees are not currently active during distance learning.
