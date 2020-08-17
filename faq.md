@@ -8,10 +8,6 @@ We encourage all PTA members to attend the Association Meetings, which are held 
 - February
 - April
 
-PTA Executive Board Meetings are for the Executive Board Members and Standing Committee Chairs only.  The Executive Board Meetings are held on the fourth Tuesday of the month, unless otherwise noted.
-Executive board meetings are from 11:00 am - 1:00 pm.
-All Association meetings are from 7:00 pm - 8:30 pm.
-
 ### Who can join the PTA?
 Parents, teachers and community members can join the PTA.  
  
