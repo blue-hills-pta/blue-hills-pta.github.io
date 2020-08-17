@@ -1,4 +1,7 @@
-### 2019-2010 PTA Newsletters
+### 2020-2021 PTA Newsletters
+
+
+### 2019-2020 PTA Newsletters
 
 [December 6, 2019](/assets/bulletins/12062019_BHPTA_Newsletter.pdf)
 
