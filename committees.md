@@ -1,4 +1,4 @@
-## 2020-2021 Committees
+## 2020-2021 Committees*
  
 ### Box Tops for Education
 
@@ -29,3 +29,5 @@
 ### Yearbook
 
 [BlueHillsYearbook@gmail.com](mailto:BlueHillsYearbook@gmail.com)
+
+* Certain committees are not currently active during distance learning.
