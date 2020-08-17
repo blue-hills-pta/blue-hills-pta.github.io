@@ -14,7 +14,7 @@ Email [bluehillsptaprojectcornerstone@gmail.com](mailto:bluehillsptaprojectcorne
 
 ### Reflections
 
-Email [blueHillsReflections@yahoo.com](mailto@bluehillsreflections@yahoo.com]
+Email [blueHillsReflections@yahoo.com](mailto:bluehillsreflections@yahoo.com]
 
 ### Yearbook
 
