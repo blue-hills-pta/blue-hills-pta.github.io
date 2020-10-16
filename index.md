@@ -6,6 +6,33 @@ Blue Hills Elementary is located in Saratoga, California. The Blue Hills PTA is 
 
 ## Announcements
 
+### PTA is here for you!
+
+Dear Blue Hills Families,
+
+Hope you and your loved ones are safe and healthy.  As we navigate through new ways of learning this year, we’d like to share information on what the PTA will look like this year so far:
+
+PTA will continue to support and fund:
+Assemblies (Virtual)
+Disaster Preparedness
+Teacher/Principal Funds
+Project Cornerstone
+Parent Education Nights (Virtual)
+Blue Hills Library
+
+To effectively continue the above programs, your support is greatly appreciated.  Please join the PTA and donate using the link below:
+https://jointotem.com/ca/saratoga/blue-hills-pta
+
+
+For students/families to participate in this year’s PTA activities, it’s important to complete the PTA Waiver form below:
+https://forms.gle/TYe9ve1foQYTwTYPA
+
+
+Don’t miss out on announcements!  Join Konstella and connect with the PTA, your classrooms and your Blue Hills Community:
+www.konstella.com
+Invitation code: RAEDZZ
+
+
 ### Reflections Art Contest
 
 Explore the arts and express yourself!  This year's Reflections art contest theme is "I Matter Because...".  For more information and the contest form, please go to [this form](https://docs.google.com/forms/d/e/1FAIpQLSePBaQWfq6eo5NL2XHRuXuuk_azYPAOaH5juGnl20GZPc4s2Q/viewform).
