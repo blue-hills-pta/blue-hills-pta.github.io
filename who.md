@@ -16,7 +16,7 @@ Anu Sreenivasan
 [BlueHillsPTAVP2@gmail.com](mailto:BlueHillsPTAVP2@gmail.com)
 
 ### Secretary	 
-Jennifer Sahara
+Tania Yang
 [BlueHillsPTASecretary@gmail.com](mailto:BlueHillsPTASecretary@gmail.com)
 
 ### Treasurer	 
