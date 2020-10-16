@@ -20,18 +20,15 @@ Project Cornerstone
 Parent Education Nights (Virtual)
 Blue Hills Library
 
-To effectively continue the above programs, your support is greatly appreciated.  Please join the PTA and donate using the link below:
-https://jointotem.com/ca/saratoga/blue-hills-pta
+To effectively continue the above programs, your support is greatly appreciated.  Please join the PTA and donate using this [link](https://jointotem.com/ca/saratoga/blue-hills-pta)
 
-
-For students/families to participate in this year’s PTA activities, it’s important to complete the PTA Waiver form below:
-https://forms.gle/TYe9ve1foQYTwTYPA
-
+For students/families to participate in this year’s PTA activities, it’s important to complete the [PTA Waiver form](https://forms.gle/TYe9ve1foQYTwTYPA)
 
 Don’t miss out on announcements!  Join Konstella and connect with the PTA, your classrooms and your Blue Hills Community:
 www.konstella.com
 Invitation code: RAEDZZ
 
+![Join Konstella](/assets/images/Konstella.jpg)
 
 ### Reflections Art Contest
 
