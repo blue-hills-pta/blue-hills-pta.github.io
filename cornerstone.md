@@ -8,4 +8,3 @@ For more information about Project Cornerstone, please go the the YMCA's [Projec
 
 #### If you are already a Project Cornerstone volunteer, thank you!
 
-Look [here](https://www.ymcasv.org/ymca-project-cornerstone/materials-lessons/abc-materials-lesson-plans/abc-champion-year) for the 2020-21 lesson plans.
