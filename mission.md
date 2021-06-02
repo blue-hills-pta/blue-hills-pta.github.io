@@ -10,7 +10,7 @@ The PTA has a board of 9 elected officials and meets monthly.  All parents of Bl
 
 ### Fund Raising
 
-The PTA has two major fundraisers (Bobcat Walk and Ice Cream Social) during the school year. The funds raised are used to purchase materials for the enrichment programs, such as:
+The PTA has two major fundraisers (Fall Festival and Spring Readathon) during the school year. The funds raised are used to purchase materials for the enrichment programs, such as:
 
 - Computer (Coding) Club
 - Science Lab
